@@ -12,7 +12,6 @@ const colors = [
   "#ffc3a0",
   "#66cdaa",
   "#3399ff",
-  "#ccff00",
   "#a0db8e",
   "#808080"
 ] as readonly string[];
