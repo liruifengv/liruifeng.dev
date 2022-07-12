@@ -18,7 +18,7 @@ const colors = [
 ] as readonly string[];
 
 const handler = (req: Request) => html({
-  title: "Hello World!",
+  title: "Hello liruifeng!",
   body: (
     <div
       class="flex flex-col items-center justify-center w-full h-screen"
